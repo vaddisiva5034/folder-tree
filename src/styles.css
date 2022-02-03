@@ -1,0 +1,6 @@
+.folder-buttons {
+  display: none;
+}
+.title:hover .folder-buttons {
+  display: block;
+}
